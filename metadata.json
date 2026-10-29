@@ -1,0 +1,6 @@
+{
+  "name": "SuperPost",
+  "description": "The open social media scheduling, automation, and analytics platform. Manage, schedule, and automate content across 28+ channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
